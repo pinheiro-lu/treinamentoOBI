@@ -21,3 +21,5 @@
 - Salário - https://www.beecrowd.com.br/judge/pt/problems/view/1008
 - Média 2 - https://www.beecrowd.com.br/judge/pt/problems/view/1006
 - A Idade de Dona Mônica - https://neps.academy/br/exercise/463
+### Adicionais
+- Acelerador de Partículas - https://neps.academy/br/exercise/822
