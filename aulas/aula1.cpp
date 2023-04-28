@@ -24,9 +24,12 @@ long long a;
 
 /* 2 - Operadores
  *
- * Os operadores de C++ são os mesmos da linguagem C.
+ * Os principais operadores de C++ são os mesmos da linguagem C.
+ * https://learn.microsoft.com/pt-br/cpp/cpp/cpp-built-in-operators-precedence-and-associativity?view=msvc-160
  */
 
+n += 2;
+n++;
 
 
 /*
@@ -69,9 +72,21 @@ for (int i = 0; i < n; i++) {
 	cout << "passei pelo for\n";
 }
 
-int i;
+int i = n;
 
 while (i > 0) {
 	cout << "passei pelo while\n";
 	i--;
+}
+
+/*
+	Template: 
+*/
+
+#include <bits/stdc++.h>
+
+int main() {
+	ios_base::sync_with_stdio(0); cin.tie(0);
+
+	return 0;
 }
