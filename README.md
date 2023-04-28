@@ -24,3 +24,5 @@
 ### Adicionais
 - Acelerador de Partículas - https://neps.academy/br/exercise/822
 - Weird Algorithm - https://cses.fi/problemset/task/1068
+- Drone de Entrega - https://neps.academy/br/exercise/14
+- Aritmética Primária - https://www.beecrowd.com.br/judge/pt/problems/view/1212
