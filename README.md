@@ -23,3 +23,4 @@
 - A Idade de Dona Mônica - https://neps.academy/br/exercise/463
 ### Adicionais
 - Acelerador de Partículas - https://neps.academy/br/exercise/822
+- Weird Algorithm - https://cses.fi/problemset/task/1068
