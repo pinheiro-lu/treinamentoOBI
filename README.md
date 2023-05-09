@@ -26,3 +26,6 @@
 - Weird Algorithm - https://cses.fi/problemset/task/1068
 - Drone de Entrega - https://neps.academy/br/exercise/14
 - Aritmética Primária - https://www.beecrowd.com.br/judge/pt/problems/view/1212
+
+## Exercícios Aula 2
+- Zero para Cancelar - https://neps.academy/br/exercise/1486
