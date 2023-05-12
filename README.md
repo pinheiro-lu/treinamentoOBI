@@ -29,3 +29,7 @@
 
 ## Exercícios Aula 2
 - Zero para Cancelar - https://neps.academy/br/exercise/1486
+
+## Exercícios Aula 3
+- Distinct Numbers - https://cses.fi/problemset/task/1621
+- Vanya and Lanterns - https://codeforces.com/contest/492/problem/B
